@@ -1,7 +1,3 @@
-theme: minima
-title: JAUNTS
-description: thawani@usc.edu
-logo: https://miro.medium.com/fit/c/256/256/2*RSWo8FZzYVseKBPUn1OQ6g.jpeg
 header_pages:
   - about.md
-  - portfolio.md
+  - publications.md
