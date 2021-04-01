@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Blogging Like a Hacker
+title: Publications
 food: Pizza
-permalink: /about/
+permalink: /publications/
 ---
 
 EMNLP
