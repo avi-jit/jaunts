@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-**J**ay's **A**cademically **U**nrelenting & **N**otably **T**houghtful **S**tudents
+JAUNTS stands for **J**ay's **A**cademically **U**nrelenting & **N**otably **T**houghtful **S**tudents so here's a little bit more to know about each of us:
 
 Faculty
 - [Jay Pujara](https://www.jaypujara.org/index.html)

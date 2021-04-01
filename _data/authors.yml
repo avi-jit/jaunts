@@ -1,0 +1,11 @@
+sameer:
+  name:
+    first: "Sameer"
+    last: "Singh"
+  website: "http://www.sameersingh.org"
+
+avi:
+  name:
+    first: "Avijit"
+    last: "Thawani"
+  webiste: "http://avi-jit.github.io/"

@@ -1,0 +1,32 @@
+emp-instance:naacl21:
+  title: >
+    Whatever it is called
+  venue: "naacl"
+  type: "Conference"
+  year: 2021
+  authors:
+    - sameer
+    - ‪Sarthak Jain‬
+    - Byron Wallace
+  abstract: >
+    Widespread adoption of deep pretrained (masked) neural language models has motivated a pressing need for approaches for interpreting network outputs and for facilitating model debugging. Instance attribution methods constitute one means of accomplishing these goals by retrieving training instances that (may have) led to a particular prediction. Influence functions (IF) provide machinery for doing this by quantifying the effect that perturbing individual train instances would have on a specific test prediction. However, even approximating the IF is computationally expensive, to a degree that may be prohibitive in many cases. Might simpler approaches (e.g., retrieving train instance most similar to a given test point) perform comparably? In this work we evaluate the degree to which different potential instance attribution agree with respect to the importance of training samples. We find that simple retrieval methods yield training instances that differ from those identified via gradient-based methods (such as the IF), but that nonetheless exhibit desirable characteristics similar to more complex attribution methods.
+
+
+poisoning:naacl21:
+  title: >
+    The second paper
+  venue: "naacl"
+  type: "Conference"
+  year: 2021
+  authors:
+    - avi
+    - Tony Z. Zhao
+    - Shi Feng
+    - sameer
+  abstract: >
+    Adversarial attacks alter NLP model predictions by perturbing test-time inputs. However, it is much less understood whether, and how, predictions can be manipulated with small, concealed changes to the training data. In this work, we develop a new data poisoning attack that allows an adversary to control model predictions whenever a desired trigger phrase is present in the input. For instance, we insert 50 poison examples into a sentiment model's training set that causes the model to frequently predict Positive whenever the input contains "James Bond". Crucially, we craft these poison examples using a gradient-based procedure so that they do not mention the trigger phrase. We also apply our poison attack to language modeling ("Apple iPhone" triggers negative generations) and machine translation ("iced coffee" mistranslated as "hot coffee"). We conclude by proposing three defenses that can mitigate our attack at some cost in prediction accuracy or extra human annotation.
+  links:
+    - name: PDF
+      link: https://arxiv.org/pdf/2010.12563.pdf
+    - name: ArXiV
+      link: https://arxiv.org/abs/2010.12563
