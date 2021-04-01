@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-Home page content here.
+Jay's Academically Unrelenting & Notably Thoughtful Students
