@@ -1,7 +1,8 @@
-header_pages:
-  - about.md
-  - publications.md
-
+title: The Jaunts Webpage
 author:
   name: Avijit Thawani
   email: thawani@usc.edu
+
+header_pages:
+  - about.md
+  - publications.md
