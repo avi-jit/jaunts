@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Members
+permalink: /members/
 ---
 
 **J**ay's **A**cademically **U**nrelenting & **N**otably **T**houghtful **S**tudents
