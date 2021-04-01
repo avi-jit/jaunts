@@ -6,4 +6,5 @@ permalink: /publications/
 ---
 
 EMNLP
-<h1>{{ page.food }}</h1>
+<h3>{{ page.food }}</h3>
+<h3>{{ site.pages }}</h3>
