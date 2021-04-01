@@ -5,6 +5,8 @@ title: JAUNTS
 
 theme: minima
 
-#header_pages:
-#  - about.md
-#  - publications.md
+header_pages:
+  - index.md
+  - members.md
+  - publications.md
+  - join.md
