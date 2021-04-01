@@ -3,6 +3,6 @@ author:
   name: Avijit Thawani
   email: thawani@usc.edu
 
-header_pages:
-  - about.md
-  - publications.md
+#header_pages:
+#  - about.md
+#  - publications.md
