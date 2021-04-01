@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 food: Pizza
-#permalink: /publications/
+permalink: /publications/
 ---
 
 EMNLP
